@@ -1,0 +1,25 @@
+{
+  "name": "fitbit-to-withings-weight-converter",
+  "version": "1.0.0",
+  "description": "Converts Fitbit exported weight data to CSV to be imported by Withings",
+  "main": "csv-converter.js",
+  "dependencies": {
+    "@types/node": "^12.12.5",
+    "fs": "^0.0.1-security",
+    "moment": "^2.24.0",
+    "typescript": "^3.6.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "tsc && node dist/csv-converter.js"
+  },
+  "keywords": [
+    "withings",
+    "fitbit",
+    "convert",
+    "weight",
+    "csv"
+  ],
+  "author": "Juliana Peña",
+  "license": "ISC"
+}

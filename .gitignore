@@ -1,0 +1,4 @@
+dist/
+*.csv
+weight/*.json
+node_modules/
