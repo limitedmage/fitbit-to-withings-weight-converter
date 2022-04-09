@@ -6,7 +6,7 @@
   "dependencies": {
     "@types/node": "^12.12.5",
     "fs": "^0.0.1-security",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "typescript": "^3.6.4"
   },
   "devDependencies": {},
